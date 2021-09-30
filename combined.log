@@ -1,0 +1,9 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started at http://0.0.0.0:8080"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started at http://0.0.0.0:8080"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started at http://0.0.0.0:8080"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started at http://0.0.0.0:8080"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started at 127.0.0.1:8080"}
+{"level":"\u001b[32minfo\u001b[39m","message":{"body":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0","host":"127.0.0.1:8080","postman-token":"005550ff-3226-4c32-ab0f-7c31ce9acebf","user-agent":"PostmanRuntime/7.28.4"}}}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started at 127.0.0.1:8080"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started at 127.0.0.1:8080"}
+{"level":"\u001b[32minfo\u001b[39m","message":{"body":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0","host":"127.0.0.1:8080","postman-token":"ca7513ba-495c-49e9-a490-f8dc684bb8a9","user-agent":"PostmanRuntime/7.28.4"}}}
