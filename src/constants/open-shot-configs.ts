@@ -7,7 +7,7 @@ const openShotConfigs = {
     },
     proxy: {
       host: '127.0.0.1',
-      port: 8080
+      port: 8008
     },
     server:{
         host: 'http://20.113.56.63',
@@ -20,7 +20,8 @@ const openShotConfigs = {
         port: 80,
         login: 'demo-cloud',
         password: 'demo-password'
-    }
+    },
+    isDemoMode: true
 }
 
 export default openShotConfigs;

@@ -9,3 +9,7 @@
 
 /.idea/
 /.vscode/
+
+# Log
+
+/combined.log

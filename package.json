@@ -7,8 +7,8 @@
     "prebuild": "npm run tslint-check && tslint -c tslint.json -p tsconfig.json --fix",
     "build": "npm run prebuild && tsc",
     "prestart": "npm run build",
-    "start": "npm run prestart && node NODE_ENV=PRODUCTION .",
-    "start:dev": "npm run prestart && nodemon NODE_ENV=DEVELOPMENT .",
+    "start": "npm run prestart && cross-env NODE_ENV=production node .",
+    "start:dev": "npm run prestart && cross-env NODE_ENV=DEVELOPMENT nodemon  .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "tslint-check": "tslint-config-prettier-check ./tslint.json"
   },
@@ -17,6 +17,7 @@
     "axios": "0.21.4",
     "body-parser": "1.19.0",
     "compression": "1.7.4",
+    "cross-env": "7.0.3",
     "express": "4.17.1",
     "express-winston": "4.0.5",
     "helmet": "4.6.0",
